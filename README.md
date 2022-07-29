@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jortana&theme=tokyonight&layout=compact)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rory&theme=tokyonight)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rory&theme=tokyonight)](https://git.io/streak-stats)
