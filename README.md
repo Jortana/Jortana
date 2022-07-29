@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Jortana&show_icons=true&theme=tokyonight&count_private=true)
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jortana&theme=tokyonight&layout=compact)
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rory&theme=tokyonight)](https://git.io/streak-stats)
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jortana&theme=tokyonight&layout=compact)
