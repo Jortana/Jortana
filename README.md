@@ -14,9 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Jortana&theme=tokyonight)](https://git.io/streak-stats)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Jortana&show_icons=true&theme=tokyonight&count_private=true)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Jortana&theme=tokyonight)](https://git.io/streak-stats)
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jortana&theme=tokyonight&layout=compact)
